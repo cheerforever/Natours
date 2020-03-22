@@ -7,3 +7,10 @@ A record of a CSS tutorial
 * Inheritance of a property only works if no one declares a value for that property;
 * The inherit keyword forces inheritance on a certain property;
 * The initial keyword resets a property to its initial value.
+## THE VISUAL FORMATTING MODEL
+* **Dimentions of boxes**：the box model；
+* **Box Type**：inline，block and inline-block；
+* **Positioning Scheme**：floats and positioning；
+* **Stacking contexts**；
+* Other elements in the render tree；
+* Viewport size，demensions of images，etc.
