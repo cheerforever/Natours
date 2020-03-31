@@ -14,3 +14,9 @@ A record of a CSS tutorial
 * **Stacking contexts**;
 * Other elements in the render tree;
 * Viewport size, demensions of images, etc.
+## THE BOX MODEL
+* **Content**: text, image, etc;
+* **Padding**: transparent area around the content, inside of the box;
+* **Border**: goes around the padding and the content;
+* **Margin**: space between boxes;
+* **Fill area**: area that gets filled with backfround color or backfround image.
