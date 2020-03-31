@@ -20,3 +20,5 @@ A record of a CSS tutorial
 * **Border**: goes around the padding and the content;
 * **Margin**: space between boxes;
 * **Fill area**: area that gets filled with backfround color or backfround image.
+* **total width** = right border + right padding + specified width + left padding + left border
+* **total height** = top border + top padding + specified height + bottom padding + bottom border
